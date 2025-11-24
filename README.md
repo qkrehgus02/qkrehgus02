@@ -6,8 +6,7 @@
 
 ## My Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrehgus09&layout=compact)](https://github.com/qkrehgus09/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrehgus09&layout=compact)]
 
 
 ## [Solved.ac](https://solved.ac)(Algorithm Tranining) Profile
