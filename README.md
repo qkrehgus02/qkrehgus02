@@ -39,15 +39,10 @@
 - **2024.03~2024.12** 서울시립대학교 컴퓨터과학부 소모임 ALOC 부원
 
 
-## GitHub Stats
+## ETC
 
 ![qkrehgus02's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrehgus02&count_private=true)
-
-## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrehgus02)](https://github.com/anuraghazra/github-readme-stats)
-
-## [Solved.ac](https://solved.ac)(Algorithm Tranining) Profile
-
 ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehgus09)
 
  
