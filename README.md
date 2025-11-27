@@ -24,6 +24,8 @@
 ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehgus09)
 <img src="https://topsolved.mayonedev.com/api/boj?handle=qkrehgus09&row=10&base_color=gold">
 
+## My Stack
+
 ### 2025
 
 - **2025.11** 한국정보기술학회 추계종합학술대회 및 대학생논문경진대회  
