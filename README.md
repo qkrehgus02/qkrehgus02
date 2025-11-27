@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=dohyeon&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=DoHyeon&color=gradient)
 
 ## My GitHub Stats
 
