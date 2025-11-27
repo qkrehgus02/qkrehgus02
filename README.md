@@ -2,7 +2,7 @@
 
 ![qkrehgus02's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrehgus02&count_private=true)
 
-## My Stack
+## Tech Stack
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
-## My History
+## History
 
 ### 2025
 
@@ -38,7 +38,7 @@
 - **2024.03~2024.12** 서울시립대학교 컴퓨터과학부 소모임 ALOC 부원
 
 
-## My [Solved.ac](https://solved.ac)(Algorithm Tranining) Profile
+## [Solved.ac](https://solved.ac)(Algorithm Tranining) Profile
 
 ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehgus09)
 <img src="https://topsolved.mayonedev.com/api/boj?handle=qkrehgus09&row=10&base_color=gold">
