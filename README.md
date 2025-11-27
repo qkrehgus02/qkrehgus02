@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent)
+![header](https://capsule-render.vercel.app/api?type=transparent&height = 300&text = dohyeon%20%F0%9F%A4%97)
 
 ## My GitHub Stats
 
