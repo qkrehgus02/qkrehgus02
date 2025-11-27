@@ -18,13 +18,7 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
-
-## [Solved.ac](https://solved.ac)(Algorithm Tranining) Profile
-
-![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehgus09)
-<img src="https://topsolved.mayonedev.com/api/boj?handle=qkrehgus09&row=10&base_color=gold">
-
-## My Stack
+## My History
 
 ### 2025
 
@@ -42,3 +36,10 @@
 
 - **2024.08~2024.11** LifeStock 주식게임 투두리스트 (BE)
 - **2024.03~2024.12** 서울시립대학교 컴퓨터과학부 소모임 ALOC 부원
+
+
+## My [Solved.ac](https://solved.ac)(Algorithm Tranining) Profile
+
+![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehgus09)
+<img src="https://topsolved.mayonedev.com/api/boj?handle=qkrehgus09&row=10&base_color=gold">
+
