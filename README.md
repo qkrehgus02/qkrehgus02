@@ -36,6 +36,10 @@
 - **2024.08~2024.11** LifeStock 주식게임 투두리스트 (BE)
 - **2024.03~2024.12** 서울시립대학교 컴퓨터과학부 소모임 ALOC 부원
 
+### 2021
+
+- **2021.03~** 서울시립대학교 컴퓨터과학부 입학
+
 
 ## ETC
 ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehgus09)
