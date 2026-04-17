@@ -47,7 +47,7 @@
 
 ## ETC
 ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehgus09)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrehgus09)](https://github.com/anuraghazra/github-readme-stats)
+[![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrehgus09)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
